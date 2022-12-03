@@ -11,7 +11,7 @@
     <div class="header-1">
         <a href="#" class="logo"><i class="fas fa-shopping-basket"></i>groso</a>
         <form action="" class="search-box-container">
-            <input type="search" id="search-box" placeholder="search here...">
+            <input type="search" id="search-box" placeholder="click here...">
             <label for="search-box" class="fas fa-search"></label>
         </form>
 
@@ -32,7 +32,7 @@
         <div class="icons">
             <a href="#" class="fas fa-shopping-cart"></a>
             <a href="#" class="fas fa-heart"></a>
-            <a href="#" class="fas fa-user-circle"></a>
+            <a href="#" class="fas fa-user-square"></a>
         </div>
 
     </div>
@@ -270,7 +270,7 @@
         </div>
 
         <div class="box">
-            <span class="discount">-55%</span>
+            <span class="discount">23%</span>
             <div class="icons">
                 <a href="#" class="fas fa-heart"></a>
                 <a href="#" class="fas fa-share"></a>
@@ -285,7 +285,7 @@
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star-half-alt"></i>
             </div>
-            <div class="price"> 50 <span> 78 </span> </div>
+            <div class="price"> 100 <span> 87</span> </div>
             <div class="quantity">
                 <span>quantity : </span>
                 <input type="number" min="1" max="1000" value="1">
@@ -338,7 +338,7 @@
             <div class="price"> 20 <span> 70 </span> </div>
             <div class="quantity">
                 <span>quantity : </span>
-                <input type="number" min="1" max="1000" value="1">
+                <input type="number" min="1" max="100" value="1">
                 <span> /kg </span>
             </div>
             <a href="#" class="btn">add to cart</a>
@@ -354,16 +354,16 @@
 
     <div class="content">
 
-        <h3 class="title">deal of the day</h3>
+        <h3 class="title">wholesale weel</h3>
         
 
         <div class="count-down">
             <div class="box">
-                <h3 id="day">10</h3>
+                <h3 id="year">365</h3>
                 <span>day</span>
             </div>
             <div class="box">
-                <h3 id="hour">00</h3>
+                <h3 id="second">30</h3>
                 <span>hour</span>
             </div>
             <div class="box">
